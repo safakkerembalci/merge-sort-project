@@ -7,6 +7,8 @@
 Yukarıdaki dizinin sort türüne göre aşamalarını yazınız.
 Big-O gösterimini yazınız.
 
+---
+
 **Cevap:**
 
 1. aşama [16,21,11] - [8,12,22]
@@ -21,6 +23,10 @@ Big-O gösterimini yazınız.
 
 6. aşama [8,11,12,16,21,22]
 
+---
+
 **Big-O gösterimi;**
 
 O(nlog)
+
+---
