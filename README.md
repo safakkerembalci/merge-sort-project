@@ -1,31 +1,31 @@
-# **merge sort project**
+# **Merge Sort Project**
 
-## **Proje 2**
+## **Project 2**
 
 [16,21,11,8,12,22] -> Merge Sort
 
-Yukarıdaki dizinin sort türüne göre aşamalarını yazınız.
-Big-O gösterimini yazınız.
+Write the stages of the above array according to the merge sort type.
+Write the Big-O notation.
 
 ---
 
-**Cevap:**
+**Answer:**
 
-1. aşama [16,21,11] - [8,12,22]
+1st stage [16,21,11] - [8,12,22]
 
-2. aşama [16] - [21,11] - [8,12] - [22]
+2nd stage [16] - [21,11] - [8,12] - [22]
 
-3. aşama [16] - [21] - [11] - [8] - [12] - [22]
+3rd stage [16] - [21] - [11] - [8] - [12] - [22]
 
-4. aşama [16] - [11,21] - [8,12] - [22]
+4th stage [16] - [11,21] - [8,12] - [22]
 
-5. aşama [11,16,21] - [8,12,22]
+5th stage [11,16,21] - [8,12,22]
 
-6. aşama [8,11,12,16,21,22]
+6th stage [8,11,12,16,21,22]
 
 ---
 
-**Big-O gösterimi;**
+**Big-O notation;**
 
 O(nlog)
 
